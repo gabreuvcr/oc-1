@@ -1,2 +1,2 @@
-# oc-1
-Trabalho de Organização de Computadores I
+# Organização de Computadores I
+Trabalho de Organização de Computadores I - 2019/2
