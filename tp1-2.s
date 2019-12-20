@@ -1,4 +1,3 @@
-#Gabriel Victor Carvalho Rocha
 #Exercicio 2
 
 main:

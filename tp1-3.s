@@ -1,4 +1,3 @@
-#Gabriel Victor Carvalho Rocha
 #Exercicio 3
 
 #O programa consiste em analisar cada valor do vetor a
